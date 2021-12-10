@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @starkarabil
 - 👀 I’m interested in software development for opensource webGIS applications, specifically masterportal.
 - 🌱 I’m currently learning Dockerising, JavaScript, GIS oriented webservices.
-- 💞️ I’m looking to collaborate on #Waas-3 project from spawning-area at LGLN.
+- 💞️ I’m looking to collaborate on open source WebGIs applications.
 - 📫 How to reach me sitar.karabil@lgln.niedersachsen.de.
 
 <!---
